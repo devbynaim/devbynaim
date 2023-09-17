@@ -3,7 +3,7 @@
 I'm a self-taught web developer passionate about React and front-end development. I thrive on creative problem-solving and continuous learning.
 
 - Skills: React, Redux, HTML, CSS, JavaScript
-- Design: Figma, Adobe XD (I love making things look good!)
+- Design: Figma
 - Experience: Self-study, online projects
 - Strengths: Adaptability, teamwork, and problem-solving
 
