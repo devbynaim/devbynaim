@@ -9,4 +9,4 @@ I'm a self-taught web developer passionate about React and front-end development
 
 Let's connect and build amazing web apps together! 🌐
 
-📫 Reach me: [Email](mailto:your-email@example.) | [LinkedIn](https://www.linkedin.com/in/your-profile/)
+📫 Reach me: [Email](mailto:naim.work.bd@gmail.com) | [LinkedIn](https://www.linkedin.com/in/devbynaim/)
